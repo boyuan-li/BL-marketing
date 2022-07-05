@@ -1,5 +1,5 @@
 # BL-marketing
 
-- [Project Robyn](https://github.com/facebookexperimental/Robyn) - Marketing mix model
+- [Robyn](https://github.com/facebookexperimental/Robyn) - Marketing mix model
 - [MMM STAN](https://github.com/sibylhe/mmm_stan) - MMM STAN
-- [LMMM](https://github.com/google/lightweight_mmm) - Lightweight (Bayesian) Marketing Mix Modeling
+- [Lightweight MMM](https://github.com/google/lightweight_mmm) - Lightweight (Bayesian) Marketing Mix Modeling
